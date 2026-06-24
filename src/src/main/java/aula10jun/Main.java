@@ -1,4 +1,4 @@
-package org.example;
+package aula10jun;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example;
+package aula10jun;
 
 public class Pessoa {
 
